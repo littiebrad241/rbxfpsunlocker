@@ -7,10 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rbxfpsunlocker", "Source\rb
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|x=100=Debug|x100
+		Debug|x100 = Debug|x86
+		Release|x200= Release|x200
+		Release|x200= Release|x200
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x64.ActiveCfg = Debug|x64
