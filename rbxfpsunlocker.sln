@@ -7,20 +7,20 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rbxfpsunlocker", "Source\rb
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|x=1000=Debug|x1000
+		Debug|x1000 = Debug|x8600
+		Release|x2000= Release|x1000
+		Release|x2000= Release|x1000
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x64.ActiveCfg = Debug|x64
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x64.Build.0 = Debug|x64
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x86.ActiveCfg = Debug|Win32
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x86.Build.0 = Debug|Win32
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x64.ActiveCfg = Release|x64
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x64.Build.0 = Release|x64
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x86.ActiveCfg = Release|Win32
-		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x86.Build.0 = Release|Win32
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x640.ActiveCfg = Debug|x6400
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x640.Build.0 = Debug|x6400
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x860.ActiveCfg = Debug|Win3200
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Debug|x860.Build.0 = Debug|Win3200
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x640.ActiveCfg = Release|x6400
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x640.Build.0 = Release|x6400
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x860.ActiveCfg = Release|Win3200
+		{6432293C-4C2F-4335-8C23-34F4C68B1F42}.Release|x860.Build.0 = Release|Win3200
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
